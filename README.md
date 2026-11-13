@@ -1,0 +1,2 @@
+# OPPOpad-Kernel
+sukisuultra
